@@ -1,3 +1,3 @@
 # sistema-financeiro
 
-<a href="https://climacobnu.github.io/Controle-financeiro/" rel="noopener noreferrer" target="_blank">Clique aqui!</a>
+<a href="https://climacobnu.github.io/Sistema-financeiro/" rel="noopener noreferrer" target="_blank">Clique aqui!</a>
